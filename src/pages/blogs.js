@@ -1,11 +1,7 @@
 import React from "react";
 
-const About = () => {
-  return (
-    <div>
-      <h1>GeeksforGeeks is a Computer Science portal for geeks.</h1>
-    </div>
-  );
+const Blogs = () => {
+  return <h1>You can write your blogs!</h1>;
 };
 
-export default About;
+export default Blogs;
